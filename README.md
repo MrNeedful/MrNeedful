@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/mrneedful"><img src="https://api.daily.dev/devcards/v2/UkiunsdkUucEZ2zWdO9SU.png?type=default&r=viu" width="356" alt="Einar Mjoksigland's Dev Card"/></a>
+<a href="https://app.daily.dev/mrneedful"><img src="https://api.daily.dev/devcards/v2/UkiunsdkUucEZ2zWdO9SU.png?type=default&r=phj" width="356" alt="Einar Mjoksigland's Dev Card"/></a>
